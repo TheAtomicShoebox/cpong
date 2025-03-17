@@ -3,7 +3,7 @@
 #include <unistd.h>
 #include <time.h>
 
-#define TICKS_PER_SECOND 75.0
+#define TICKS_PER_SECOND 15.0
 #define SKIP_TICKS 1000000.0 / TICKS_PER_SECOND
 #define MAX_FRAMESKIP 5
 
